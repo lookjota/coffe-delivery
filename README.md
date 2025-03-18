@@ -57,3 +57,11 @@ export default tseslint.config({
 ## install dependencies styled-components
 $ npm i styled-components
 $ npm i @types/styled-components
+
+## use google fonts
+
+### instal dependencies react router dom
+$ npm i react-router-dom
+
+### install dependencies phosphor-react
+$ npm i phosphor-react
